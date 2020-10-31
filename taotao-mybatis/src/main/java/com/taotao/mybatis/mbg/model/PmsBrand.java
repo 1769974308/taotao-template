@@ -10,7 +10,7 @@ public class PmsBrand implements Serializable {
     /**
      * é¦–å­—æ¯
      *
-     * @mbggenerated
+     * @mbg.generated
      */
     private String firstLetter;
 
@@ -19,7 +19,7 @@ public class PmsBrand implements Serializable {
     /**
      * æ˜¯å¦ä¸ºå“ç‰Œåˆ¶é€ å•†ï¼š0->ä¸æ˜¯ï¼›1->æ˜¯
      *
-     * @mbggenerated
+     * @mbg.generated
      */
     private Integer factoryStatus;
 
@@ -28,35 +28,35 @@ public class PmsBrand implements Serializable {
     /**
      * äº§å“æ•°é‡
      *
-     * @mbggenerated
+     * @mbg.generated
      */
     private Integer productCount;
 
     /**
      * äº§å“è¯„è®ºæ•°é‡
      *
-     * @mbggenerated
+     * @mbg.generated
      */
     private Integer productCommentCount;
 
     /**
      * å“ç‰Œlogo
      *
-     * @mbggenerated
+     * @mbg.generated
      */
     private String logo;
 
     /**
      * ä¸“åŒºå¤§å›¾
      *
-     * @mbggenerated
+     * @mbg.generated
      */
     private String bigPic;
 
     /**
      * å“ç‰Œæ•…äº‹
      *
-     * @mbggenerated
+     * @mbg.generated
      */
     private String brandStory;
 
